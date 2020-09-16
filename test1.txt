@@ -6,4 +6,8 @@ add func1
 add func2
 code conclick1
 
+<<<<<<< HEAD
 code conclick2
+=======
+code conclick1
+>>>>>>> 8df9e134c5069b1b12dc08a68f6d0e94a8446a6d
