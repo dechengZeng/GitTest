@@ -2,12 +2,8 @@ abcd
 123
 ABC
 
+321
 add func1
 add func2
 code conclick1
-
-<<<<<<< HEAD
 code conclick2
-=======
-
->>>>>>> 
